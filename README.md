@@ -26,6 +26,7 @@ User interaction with the pan gesture draggability is working, and the words sta
 1. Words can be dragged (no zoom or rotation)
 
 ### Upcoming
-Look into customizing background colors, labels, and word fonts.
+1. Look into customizing background colors, labels, and word fonts. 
+2. Will update the application icon design.
 
 ## Checkpoint 2
